@@ -44,5 +44,13 @@
     border-radius: 10px;
     border: none;
     box-shadow: 1px 1px 10px lightgray;
-    
+}
+#subscribe{
+    padding: 75px 0;
+}
+#subscribe input{
+    margin-bottom: 5px;
+}
+footer{
+    text-align: center;
 }

@@ -3,7 +3,7 @@
 }
 .pink-bg{
     background-color: #fceae8;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -15,7 +15,7 @@
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: white;
     border: none;
-    padding: 10px 15px;
+    padding: 8px 15px;
     border-radius: 5px;
     cursor: pointer;
 }
@@ -35,4 +35,14 @@
 }
 .categories img{
     width: 100px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 1px 10px lightgray;
+    
 }
